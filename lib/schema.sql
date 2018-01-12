@@ -23,7 +23,7 @@ CREATE TABLE books(
 );
 
 CREATE TABLE characters(
-  id INTEGER PRIMARY KEY,
+  iid INTEGER PRIMARY KEY,
   name TEXT,
   motto TEXT,
   species TEXT,
